@@ -1,4 +1,6 @@
-# Grocery Store Management System
+# Grocery Store Management System 🛒🛍️🏬🏪
+
+### if uou want to see the code u need to download this zip file and extract on your own Device. Thnak You..
 
 ![Web capture_28-1-2022_162059_multiple-disease-predictor1 herokuapp com](https://th.bing.com/th/id/R.4b838d6f6452fb51db2e999b3938d114?rik=ynVdeFjALKMRPg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-HR2TSVQQAzQ%2fUXT9O9eHmFI%2fAAAAAAAABfQ%2f4ppQLeW_S0Y%2fs1600%2fClarity%2bARS%2b-%2bLean%2bRetail%2bExecution.png&ehk=Swu%2fMO6ENrtd39YUPTbXciAB1EqLlpd7fbaOjYUCvKw%3d&risl=&pid=ImgRaw&r=0)
 
