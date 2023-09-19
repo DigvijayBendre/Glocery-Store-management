@@ -1,4 +1,4 @@
-# Grocery Store Management System 🛒🛍️🏬🏪
+# Groco Mart -  Grocery Store Management System 🛒🛍️🏬🏪
 
 ### if uou want to see the code u need to download this zip file and extract on your own Device. Thnak You..
 
